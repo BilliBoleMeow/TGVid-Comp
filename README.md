@@ -1,4 +1,4 @@
-# TGVid-Comp
+# TGVid-Com
 
 A Telegram Bot To Encode Videos Using FFMPEG.
 
