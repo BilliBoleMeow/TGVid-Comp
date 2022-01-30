@@ -11,7 +11,7 @@ Hh
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zylern/TGVid-Comp)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BilliBoleMeow/TGVid-Comp)
 
 `Railway` 
 
